@@ -1,0 +1,53 @@
+*****VACUNACION EN PANDEMIA: CONFIGURACION INICIAL*****
+Habitantes: 0 
+Centros de Vacunacion: 5 
+Fabricas: 3 
+Vacunados por tanda: 0 
+Vacunas Iniciales en cada centro: 0 
+Vacunas Totales por fabrica: 0 
+Mínimo número de vacunas fabricadas en cada tanda: 0 
+Máximo número de vacunas fabricadas en cada tanda: 0 
+Tiempo mínimo de fabricación de una tanda de vacunas: 0 
+Tiempo máximo de fabricación de una tanda de vacunas: 0 
+Tiempo máximo de reparto de vacunas a los centros: 0 
+Tiempo máximo que un habitante tarda en ver que está citado para vacunarse: 0 
+Tiempo máximo de desplazamiento del habitante al centro de vacunación: 0 
+
+*****PROCESO DE VACUNACION*****
+Vacunacion finalizada.
+
+*****ESTADÍSTICAS DE VACUNACIÓN*****
+
++ Fábrica 1:
+Ha fabricado 0 vacunas.
+
++ Fábrica 2:
+Ha fabricado 0 vacunas.
+
++ Fábrica 3:
+Ha fabricado 0 vacunas.
+
+- Centro 1:
+Ha recibido 0 vacunas.
+Se han vacunado un total de 0 habitantes.
+Han sobrado un total de 0 vacunas.
+
+- Centro 2:
+Ha recibido 0 vacunas.
+Se han vacunado un total de 0 habitantes.
+Han sobrado un total de 0 vacunas.
+
+- Centro 3:
+Ha recibido 0 vacunas.
+Se han vacunado un total de 0 habitantes.
+Han sobrado un total de 0 vacunas.
+
+- Centro 4:
+Ha recibido 0 vacunas.
+Se han vacunado un total de 0 habitantes.
+Han sobrado un total de 0 vacunas.
+
+- Centro 5:
+Ha recibido 0 vacunas.
+Se han vacunado un total de 0 habitantes.
+Han sobrado un total de 0 vacunas.
